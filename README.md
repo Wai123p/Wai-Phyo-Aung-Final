@@ -1,5 +1,3 @@
-# Wai-Phyo-Aung-Final
-<!DOCTYPE html>
 <html>
 <head>
     <title>How many types of dogs</title>
